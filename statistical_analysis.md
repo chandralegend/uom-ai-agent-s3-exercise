@@ -1,0 +1,1 @@
+The statistical analysis of the match data shows Scotland's average runs per match at 18.46 and Netherlands at 33.15. The centuries percentage is 3.35% for Scotland and 3.70% for Netherlands. The match trends indicate a competitive scenario for the upcoming match on May 16, 2025.

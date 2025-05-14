@@ -1,7 +1,7 @@
 from crewai import LLM
 
 llm = LLM(
-    model="mistral/mistral-large-latest",
+    model="gpt-4o-mini",
     temperature=0.7
 )
 
