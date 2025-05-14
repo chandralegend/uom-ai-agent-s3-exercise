@@ -28,3 +28,6 @@ Tools: Search Internet, Code Interpreter
 - Based on the Professional Report, Decide which gambles to take for {x} amount of money with different risk distribution, risk threshold
 
 ---> Markdown with Table (Amount of Money, Risk Distribution, Rationale)
+
+
+Disclaimer: This is for educational purpose only.
